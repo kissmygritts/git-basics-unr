@@ -1,6 +1,9 @@
 # added by mitchell gritts
 secrets.md
 
+# ignore javascript files
+scripts/*.js
+
 
 # Created by https://www.toptal.com/developers/gitignore/api/macos,windows,r,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,windows,r,python
