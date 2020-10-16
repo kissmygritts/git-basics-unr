@@ -1,1 +1,1 @@
-print('hello world from main.py')
+print('This is the main.py script')
