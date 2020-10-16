@@ -2,7 +2,7 @@
 secrets.md
 
 # ignore javascript files
-scripts/*.js
+# .js
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/macos,windows,r,python
