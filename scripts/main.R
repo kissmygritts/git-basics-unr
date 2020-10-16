@@ -1,1 +1,1 @@
-print('hello world from main.R')
+print('This is the main.R script')
