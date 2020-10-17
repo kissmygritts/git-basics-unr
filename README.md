@@ -6,4 +6,4 @@ A quick overview of the basics of git.
 
 Fall 2020
 
-## This color is red
+## This color is Orange
