@@ -8,4 +8,4 @@ Fall 2020
 
 ## This color is Orange
 
-this is a snake
+this is a elk
