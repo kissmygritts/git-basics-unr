@@ -7,3 +7,5 @@ A quick overview of the basics of git.
 Fall 2020
 
 ## This color is Orange
+
+this is a dog
