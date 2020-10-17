@@ -8,4 +8,4 @@ Fall 2020
 
 ## This color is Orange
 
-this is a dog
+this is a snake
