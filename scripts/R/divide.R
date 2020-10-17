@@ -1,1 +1,1 @@
-divide <- function (a, b) a / b
+divide <- function (a, b) b / a
